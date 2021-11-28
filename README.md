@@ -1,4 +1,4 @@
-# :fire:solve_localhost_in-secure_connection_page
+# :fire:solve_localhost_insecure_connection_page
 
 
 ## 1. go here --> chrome://flags/
